@@ -150,7 +150,7 @@ Currently focusing on:
 
 ## 🤝 Let's Connect
 
-I'm interested in entry-level opportunities, internships, and collaborations in software development , ,  ,data analytics and full stack development.
+I'm interested in entry-level opportunities, internships, and collaborations in software development , data analytics and full stack development.
 
 - 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/bhoomikap02)
 - 🌐 **Portfolio:** [Visit my portfolio](https://glowing-croquembouche-5a35df.netlify.app)
